@@ -5,7 +5,7 @@ public class Main {
         Automovil auto = new Automovil ("bmw");
 
         //auto.setMarca("Mercedes");
-        auto.setModelo("AMG");
+        //auto.setModelo("AMG");
         auto.setColor("Rojo");
         auto.setCilindraje("2000");
 
